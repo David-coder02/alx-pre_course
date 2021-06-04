@@ -1,0 +1,5 @@
+#ignore all .emacs files
+*.emacs
+
+#ignore ALL files in any directory named temp
+temp/
